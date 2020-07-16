@@ -1,0 +1,14 @@
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Release\netcoreapp2.1\linux-x64\compasso.deps.json
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Release\netcoreapp2.1\linux-x64\compasso.runtimeconfig.json
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Release\netcoreapp2.1\linux-x64\compasso.runtimeconfig.dev.json
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Release\netcoreapp2.1\linux-x64\compasso.dll
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Release\netcoreapp2.1\linux-x64\compasso.pdb
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Release\netcoreapp2.1\linux-x64\compasso.csprojAssemblyReference.cache
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Release\netcoreapp2.1\linux-x64\compasso.csproj.CoreCompileInputs.cache
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Release\netcoreapp2.1\linux-x64\compasso.RazorAssemblyInfo.cache
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Release\netcoreapp2.1\linux-x64\compasso.RazorAssemblyInfo.cs
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Release\netcoreapp2.1\linux-x64\compasso.AssemblyInfoInputs.cache
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Release\netcoreapp2.1\linux-x64\compasso.AssemblyInfo.cs
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Release\netcoreapp2.1\linux-x64\compasso.RazorTargetAssemblyInfo.cache
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Release\netcoreapp2.1\linux-x64\compasso.dll
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Release\netcoreapp2.1\linux-x64\compasso.pdb

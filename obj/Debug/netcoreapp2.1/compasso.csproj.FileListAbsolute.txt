@@ -1,0 +1,70 @@
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\bin\Debug\netcoreapp2.1\compasso.deps.json
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\bin\Debug\netcoreapp2.1\compasso.runtimeconfig.json
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\bin\Debug\netcoreapp2.1\compasso.runtimeconfig.dev.json
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\bin\Debug\netcoreapp2.1\compasso.dll
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\bin\Debug\netcoreapp2.1\compasso.pdb
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\obj\Debug\netcoreapp2.1\compasso.csprojAssemblyReference.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\obj\Debug\netcoreapp2.1\compasso.csproj.CoreCompileInputs.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\obj\Debug\netcoreapp2.1\compasso.RazorAssemblyInfo.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\obj\Debug\netcoreapp2.1\compasso.RazorAssemblyInfo.cs
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\obj\Debug\netcoreapp2.1\compasso.AssemblyInfoInputs.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\obj\Debug\netcoreapp2.1\compasso.AssemblyInfo.cs
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\obj\Debug\netcoreapp2.1\compasso.RazorTargetAssemblyInfo.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\obj\Debug\netcoreapp2.1\compasso.dll
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\obj\Debug\netcoreapp2.1\compasso.pdb
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.csproj.CoreCompileInputs.cache
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.RazorAssemblyInfo.cache
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.RazorAssemblyInfo.cs
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.AssemblyInfoInputs.cache
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.AssemblyInfo.cs
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.dll
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.pdb
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.deps.json
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.runtimeconfig.json
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.runtimeconfig.dev.json
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.dll
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.pdb
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.RazorTargetAssemblyInfo.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.deps.json
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.runtimeconfig.json
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.runtimeconfig.dev.json
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.dll
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.pdb
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.csproj.CoreCompileInputs.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.RazorAssemblyInfo.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.RazorAssemblyInfo.cs
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.AssemblyInfoInputs.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.AssemblyInfo.cs
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.RazorTargetAssemblyInfo.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.dll
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.pdb
+C:\Users\tom\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.csprojAssemblyReference.cache
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.deps.json
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.runtimeconfig.json
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.runtimeconfig.dev.json
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.dll
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\bin\Debug\netcoreapp2.1\compasso.pdb
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.csproj.CoreCompileInputs.cache
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.RazorAssemblyInfo.cache
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.RazorAssemblyInfo.cs
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.AssemblyInfoInputs.cache
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.AssemblyInfo.cs
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.RazorTargetAssemblyInfo.cache
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.dll
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.pdb
+C:\Users\tgdsn\Desktop\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.csprojAssemblyReference.cache
+D:\PROJETOS\IMAGINE AG\PROJ_WORKING\COMPASSO\compasso\Server\obj\Debug\netcoreapp2.1\compasso.csprojAssemblyReference.cache
+D:\PROJETOS\TFS\Compasso\Compasso\bin\Debug\netcoreapp2.1\compasso.deps.json
+D:\PROJETOS\TFS\Compasso\Compasso\bin\Debug\netcoreapp2.1\compasso.runtimeconfig.json
+D:\PROJETOS\TFS\Compasso\Compasso\bin\Debug\netcoreapp2.1\compasso.runtimeconfig.dev.json
+D:\PROJETOS\TFS\Compasso\Compasso\bin\Debug\netcoreapp2.1\compasso.dll
+D:\PROJETOS\TFS\Compasso\Compasso\bin\Debug\netcoreapp2.1\compasso.pdb
+D:\PROJETOS\TFS\Compasso\Compasso\obj\Debug\netcoreapp2.1\compasso.csprojAssemblyReference.cache
+D:\PROJETOS\TFS\Compasso\Compasso\obj\Debug\netcoreapp2.1\compasso.csproj.CoreCompileInputs.cache
+D:\PROJETOS\TFS\Compasso\Compasso\obj\Debug\netcoreapp2.1\compasso.RazorAssemblyInfo.cache
+D:\PROJETOS\TFS\Compasso\Compasso\obj\Debug\netcoreapp2.1\compasso.RazorAssemblyInfo.cs
+D:\PROJETOS\TFS\Compasso\Compasso\obj\Debug\netcoreapp2.1\compasso.AssemblyInfoInputs.cache
+D:\PROJETOS\TFS\Compasso\Compasso\obj\Debug\netcoreapp2.1\compasso.AssemblyInfo.cs
+D:\PROJETOS\TFS\Compasso\Compasso\obj\Debug\netcoreapp2.1\compasso.RazorTargetAssemblyInfo.cache
+D:\PROJETOS\TFS\Compasso\Compasso\obj\Debug\netcoreapp2.1\compasso.dll
+D:\PROJETOS\TFS\Compasso\Compasso\obj\Debug\netcoreapp2.1\compasso.pdb
